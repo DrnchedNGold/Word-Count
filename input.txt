@@ -1,0 +1,4 @@
+Prompt the user to enter the filename. Create an 
+
+array large enough to hold a filename of 40 characters. Don't forget to add an additional location to the array to hold the null byte. 
+If the filename is 40 characters there won't be room for the null byte unless you increase the array size by one.
